@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, DSA**
 
-- 📫 How to reach me **sabhishek900@gmail.com**
-
 - ⚡ Fun fact **I am a Mechanical Engineer.**
 
 <h3 align="left">Connect with me:</h3>
