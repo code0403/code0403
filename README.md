@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
-- 👨‍💻 All of my projects are available at [https://code0403.github.io](https://code0403.github.io)
+- 👨‍💻 All of my projects are available at [https://code0403.github.io](https://code0403.github.io/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, DSA**
 
